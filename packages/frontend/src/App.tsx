@@ -2,9 +2,12 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import { Test } from '../../shared/enums/test.enum'
+
 function App() {
   return (
     <div className="App">
+      {Test.Siema}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
