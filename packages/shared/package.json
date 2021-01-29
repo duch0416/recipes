@@ -5,6 +5,7 @@
   "author": "Mikołaj Duchewicz <mikolaj.duchewicz@mug.pl>",
   "homepage": "",
   "license": "ISC",
+  "types": "src/index.d.ts",
   "main": "lib/shared.js",
   "directories": {
     "lib": "lib",
